@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .btn1 {
+        background-color: #274C5B;
+        border-radius: 16px;
+        color: white;
+        font-weight: 600;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 28px 39px 29px;
+        gap: 10px;
+    }
+    .btn2{
+        background-color:#EFD372;
+        border-radius: 16px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 28px 39px 29px;
+        gap: 10px;
+    }
+    .btn3{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 28px 39px 29px;
+        background: #FFFFFF;
+        border: 1px solid #274C5B;
+        border-radius: 16px;
+    }
+    .pagButton{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 28px 39px 29px;
+        background: #274C5B;
+        border-radius: 16px;
+    }
+
+
+}
