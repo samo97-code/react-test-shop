@@ -8,6 +8,14 @@
       "confirm_password": "123456",
       "id": "d972f1cc-a6f0-4ba5-bcd7-31c490fb8ab1",
       "role": "admin"
+    },
+    {
+      "firstname": "Samvel",
+      "lastname": "DAn",
+      "email": "samo97danielyan@gmail.com",
+      "password": "admin123",
+      "confirm_password": "admin123",
+      "id": "59990cd0-4bc1-4270-8693-adf58c50ee1d"
     }
   ],
   "create-category": [
